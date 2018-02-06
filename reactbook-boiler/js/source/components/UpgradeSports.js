@@ -1,17 +1,16 @@
 import React from 'react';
 
-class UpgradeSport extends React.Component {
+class UpgradeSports extends React.Component {
 
     render() {
-        return
-        <div className='ignore'>
-            <img src="http://www.donkeyheaven.org/uploads/images/Gallery/donkeys/clive.jpg" alt="Smiley face" width="42" height="42">
+        return <div className=''>
+            <img className="UpgradeSports" src="http://www.donkeyheaven.org/uploads/images/Gallery/donkeys/clive.jpg"  >
             </img>
             <span>
                 asdf
                 </span>
-        </div>
+        </div>;
     };
 }
 
-export default UpgradeSport
+export default UpgradeSports
